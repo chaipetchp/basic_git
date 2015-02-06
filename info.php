@@ -6,4 +6,6 @@
  * Time: 3:30 PM
  */
 phpinfo();
+echo '<br><br><br><br><br>';
+echo 'hello world';
 ?>
